@@ -17,6 +17,7 @@ Upon launch, you'll encounter a menu where you can select from the following opt
 Let's explore each option:
 
 **LABYRINTH**
+
 Input movement commands from the following list:
 - `f` - forward
 - `r` - right
