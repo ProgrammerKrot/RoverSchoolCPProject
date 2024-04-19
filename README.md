@@ -1,51 +1,46 @@
-Rover - School C&P Project
+### Rover - School C&P Project
 
-This is my school project on Chemistry and Physics, which although not complex, was quite interesting.
+This repository contains my school project on Chemistry and Physics. Though not overly complex, it was quite engaging.
 
-Installation Instructions:
+#### Installation Instructions:
+1. Open or download the `main.py` file.
+2. Manually retype or transfer the file to a compatible calculator via the [Texas Instruments website](https://www.ti.com/). **IMPORTANT!** Ensure the calculator supports Python.
+3. Launch the program by navigating to Menu -> Execute -> Execute.
 
-    Open or download the main.py file.
-    Manually retype or transfer the file to a calculator via the Texas Instruments website (link here). IMPORTANT! The calculator must support Python.
-    Launch via Menu -> Execute -> Execute.
+#### Program Instructions:
+Upon launch, you'll encounter a menu where you can select from the following options:
+- **1** - Labyrinth
+- **2** - Shapes
+- **3** - Avoider
+- **4** - Drift
 
-Program Instructions:
-Upon launch, you will enter a "menu." Choose a number from 1 to 4, where:
-1 - Labyrinth
-2 - Shapes
-3 - Avoider
-4 - Drift.
+Let's explore each option:
 
-Let's go through each:
+**LABYRINTH**
+Input movement commands from the following list:
+- `f` - forward
+- `r` - right
+- `l` - left
+- `b` - backwards
 
-LABYRINTH
-Insert commands from the list:
+Commands can be combined (e.g., `fffrlb`) or entered individually. Press Enter after entering commands to start the robot's movement.
 
-    f - forward
-    r - right
-    l - left
-    b - backwards
+**SHAPES**
+Start by entering the first letters of one of the three shapes:
+- For a square: input height followed by width
+- For a triangle: input the length of one side
+- For a circle: try it yourself 😉
 
-Commands can be entered together or individually.
-For example: fffrlb or each command separately like "f...f..." etc.
-After entering one or all commands, press Enter.
-The robot will start moving immediately!
+**AVOIDER**
+Run the program and initiate the robot's movement by placing your hand approximately 10-15 cm in front of the sensors. Press `7` to stop the robot and exit the program. Note: On some calculators, use `ESC` to interrupt the program.
 
-SHAPES
-Initially, enter the first letters of one of the 3 shapes.
-For a square, enter its height followed by its width.
-For a triangle, simply enter the length of one side.
-For a circle... try it yourself 😉
+**DRIFT**
+Simply run the program! Exit by holding down `ESC`.
 
-AVOIDER
-Simply run the program. To start the robot's movement, place your hand in front of the sensors, about 10-15 cm away from the front sensors.
-Pressing 7 will stop the robot's movement and exit the program. On some calculators, this may not work; use the standard program interruption by holding down ESC.
-
-DRIFT
-Just run it! Exit the program by holding down ESC.
-
-OTHER
+**OTHER**
 From any program except Avoider and Drift, you can return to the menu by entering "back."
-To terminate the program, hold down ESC or enter exit.
+To terminate the program, hold down `ESC` or enter `exit`.
+
 
 Read license!
 
