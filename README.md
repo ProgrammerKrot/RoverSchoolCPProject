@@ -26,18 +26,22 @@ Input movement commands from the following list:
 Commands can be combined (e.g., `fffrlb`) or entered individually. Press Enter after entering commands to start the robot's movement.
 
 **SHAPES**
+
 Start by entering the first letters of one of the three shapes:
 - For a square: input height followed by width
 - For a triangle: input the length of one side
 - For a circle: try it yourself 😉
 
 **AVOIDER**
+
 Run the program and initiate the robot's movement by placing your hand approximately 10-15 cm in front of the sensors. Press `7` to stop the robot and exit the program. Note: On some calculators, use `ESC` to interrupt the program.
 
 **DRIFT**
+
 Simply run the program! Exit by holding down `ESC`.
 
 **OTHER**
+
 From any program except Avoider and Drift, you can return to the menu by entering "back."
 To terminate the program, hold down `ESC` or enter `exit`.
 
